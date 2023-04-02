@@ -87,7 +87,6 @@
         .login p a:hover {
             color: #dd2c00;
         }
-        
         .redlogin {
             text-align: center;
         }
